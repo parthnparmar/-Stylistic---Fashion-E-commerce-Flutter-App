@@ -1,0 +1,96 @@
+name: stylistic
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.7.2
+  carousel_slider: ^5.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/fashion1.png
+    - assets/images/fashion2.png
+    - assets/images/fashion3.png
+    - assets/images/b1.jpeg
+    - assets/images/b2.jpeg
+    - assets/images/b3.jpeg
+    - assets/images/jeans(2).jpg
+    - assets/images/jeans.jpg
+    - assets/images/blazer(2).jpg
+    - assets/images/blazer.jpg
+    - assets/images/sports(2).jpg
+    - assets/images/sports.jpg
+    - assets/images/jacket(2).jpg
+    - assets/images/jacket.jpeg
+    - assets/images/Bags1.jpg
+    - assets/images/Bags2.jpg
+    - assets/images/Bags3.jpg
+    - assets/images/Bags4.jpg
+    - assets/images/Bags5.jpg
+    - assets/images/Bags6.jpg
+    - assets/images/Bags7.jpg
+    - assets/images/Bags8.jpg
+    - assets/images/m1.jpg
+    - assets/images/m2.jpg
+    - assets/images/m3.jpg
+    - assets/images/m4.jpg
+    - assets/images/m5.jpg
+    - assets/images/m6.jpg
+    - assets/images/m7.jpg
+    - assets/images/m8.jpg
+    - assets/images/w1.jpeg
+    - assets/images/w2.jpeg
+    - assets/images/w3.jpeg
+    - assets/images/w4.jpeg
+    - assets/images/w5.jpeg
+    - assets/images/w6.jpeg
+    - assets/images/w7.jpeg
+    - assets/images/w8.jpeg
+    - assets/images/k1.jpeg
+    - assets/images/k2.jpeg
+    - assets/images/k3.jpeg
+    - assets/images/k4.jpeg
+    - assets/images/k5.jpeg
+    - assets/images/k6.jpeg
+    - assets/images/k7.jpeg
+    - assets/images/k8.jpeg
+    - assets/images/s1.jpeg
+    - assets/images/s2.jpeg
+    - assets/images/s3.jpeg
+    - assets/images/s4.jpeg
+    - assets/images/s5.jpeg
+    - assets/images/s6.jpeg
+    - assets/images/s7.jpeg
+    - assets/images/s8.jpeg
+    - assets/images/a1.jpeg
+    - assets/images/a2.jpeg
+    - assets/images/a3.jpeg
+    - assets/images/a4.jpeg
+    - assets/images/a5.jpeg
+    - assets/images/a6.jpeg
+    - assets/images/a7.jpeg
+    - assets/images/a8.jpeg
+    - assets/images/1.jpeg
+    - assets/images/2.jpeg
+    - assets/images/3.jpeg
+    - assets/images/4.jpeg
+    - assets/images/5.jpeg
+    - assets/images/6.jpeg
+    - assets/images/7.jpeg
+    - assets/images/8.jpeg
+   
